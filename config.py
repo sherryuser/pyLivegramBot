@@ -1,9 +1,9 @@
 blocked = "bot was blocked by the user"
-start = "Hello! This is your start message!"
+start = "🙌 hello\n🤗 welcome to feedback bot\n🤝 here you can get in touch with ᴡɪᴜᴛ groups admin"
 ban = "you were banned by the admin!"
 unban = "you were unbanned by the admin."
-text_message = "Message that would be send if somebody writes any text"
+text_message = "🤓 thanks for your message\n👨‍💻 admin will write to you as soon as possible "
 banned = "you are blocked"
-main_id = 1111 #id without quotes #can be group id
-TOKEN = "1297441208:##############"
+main_id = 1228818201
+TOKEN = "1853158914:AAF3L4EjBKbiPfzEZ14QqKBpmWW9D8iWX6c"
 notallowed = "Не перессылайте мне сообщение!"
